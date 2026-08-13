@@ -1,0 +1,268 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alexandria PL/SQL Utility Library",
+          "description": "Collection of utility packages for PL/SQL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PLSQL",
+            "last_commit": "2023-03-10T07:16:57Z",
+            "owner": "mortenbra",
+            "repo": "alexandria-plsql-utils",
+            "stars": 834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PLSQL-JSON",
+          "description": "PL/SQL library to encode/decode JSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PLSQL",
+            "last_commit": "2020-03-11T12:37:19Z",
+            "owner": "doberkofler",
+            "repo": "PLSQL-JSON",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "Oracle"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PgCLI",
+          "description": "Postgres CLI with autocompletion and syntax highlighting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T15:06:13Z",
+            "owner": "dbcli",
+            "repo": "pgcli",
+            "stars": 13349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WhoDB",
+          "description": "SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:00:38Z",
+            "owner": "clidey",
+            "repo": "whodb",
+            "stars": 5005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SchemaSpy",
+          "description": "we will do the best to simplify documentation process of your database",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-03-05T20:31:40Z",
+            "owner": "schemaspy",
+            "repo": "schemaspy",
+            "stars": 3702
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLPage",
+          "description": "Open-source SQL-only website builder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T13:55:19Z",
+            "owner": "sqlpage",
+            "repo": "SQLPage",
+            "stars": 2537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERAlchemy",
+          "description": "ERAlchemy generates Entity Relation (ER) diagram from databases",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-05T14:20:10Z",
+            "owner": "eralchemy",
+            "repo": "eralchemy",
+            "stars": 1424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqruff",
+          "description": "A SQL linter and formatter written in Rust that supports various SQL dialects and integrates with VSCode through a plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:55:39Z",
+            "owner": "quarylabs",
+            "repo": "sqruff",
+            "stars": 1369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PixQL",
+          "description": "Command-line image processing tool in SQL by @Phildo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-08-06T21:25:23Z",
+            "owner": "Phildo",
+            "repo": "pixQL",
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BigBash",
+          "description": "Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-07-16T13:35:20Z",
+            "owner": "Borisvl",
+            "repo": "bigbash",
+            "stars": 296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SlowQL",
+          "description": "SQL static analyzer with extensive rules for security, performance, and quality. Zero dependencies, completely offline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-30T00:17:16Z",
+            "owner": "slowql",
+            "repo": "slowql",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThalamusDB",
+          "description": "SQL with AI operators on text, images, and sound files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-27T15:16:02Z",
+            "owner": "itrummer",
+            "repo": "thalamusdb",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MissionKontrol",
+          "description": "Self-hosted admin panel to manage one or more MySQL/PostGRES databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-31T16:41:35Z",
+            "owner": "Mission-Kontrol",
+            "repo": "MissionKontrol",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sql-splitter",
+          "description": "CLI for splitting, merging, converting, and analyzing SQL dump files across MySQL, PostgreSQL, SQLite, and MSSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T13:26:51Z",
+            "owner": "HelgeSverre",
+            "repo": "sql-splitter",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlaxe",
+          "description": "CLI tool for searching, filtering, formatting, and splitting SQL files. Supports 40+ dialects of SQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-21T16:01:37Z",
+            "owner": "djberube",
+            "repo": "sqlaxe",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SQL tips and tricks",
+          "description": "SQL tips that cover everything from readability to common pitfalls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SQL",
+            "last_commit": "2025-11-23T09:17:14Z",
+            "owner": "ben-nour",
+            "repo": "SQL-tips-and-tricks",
+            "stars": 2302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQL Syntax Cheat Sheet",
+          "description": "Comprehensive SQL reference including: DDL, DML, JOINs, window functions, CTEs, performance tips, and common mistakes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-09T15:25:34Z",
+            "owner": "mergisi",
+            "repo": "sql-syntax-cheat-sheet",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "Resources"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:22:44.954Z",
+    "original_repository": "danhuss/awesome-sql",
+    "original_repository_sha": "6651bfab8b48238c83e05b4a2b8fc625fabcee92",
+    "enhanced_repository": "enhansome/enhansome-sql",
+    "enhanced_repository_description": null,
+    "title": "awesome-sql with stars"
+  }
+}
