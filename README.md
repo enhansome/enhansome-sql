@@ -2,8 +2,8 @@
 
 List of tools and techniques for working with relational databases inspired by other awesome lists.
 
-* [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,044 | 🐛 63 | 📅 2026-05-21 - There is alread a whole awesome list just for PostgreSQL.
-* [MySQL](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2,603 | 🐛 21 | 🌐 Python | 📅 2026-07-14 - There is already a whole awesome list just for MySQL.
+* [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,045 | 🐛 65 | 📅 2026-05-21 - There is alread a whole awesome list just for PostgreSQL.
+* [MySQL](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2,604 | 🐛 21 | 🌐 Python | 📅 2026-07-14 - There is already a whole awesome list just for MySQL.
 * [Oracle](#oracle) - Software and packages specifically for Oracle and PL/SQL.
 * [SQL Server](#sqlserver) - Software and packages specifically for SQL Server and T-SQL.
 * Cross Platform Stuff
@@ -37,11 +37,11 @@ List of tools and techniques for working with relational databases inspired by o
 ## <a name="tools"></a>Tools
 
 * [PgCLI](https://github.com/dbcli/pgcli) ⭐ 13,349 | 🐛 36 | 🌐 Python | 📅 2026-08-03 - Postgres CLI with autocompletion and syntax highlighting
-* [WhoDB](https://github.com/clidey/whodb) ⭐ 5,007 | 🐛 19 | 🌐 Go | 📅 2026-08-13 - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
-* [SchemaSpy](https://github.com/schemaspy/schemaspy) ⭐ 3,704 | 🐛 302 | 🌐 HTML | 📅 2026-03-05 - we will do the best to simplify documentation process of your database
-* [SQLPage](https://github.com/lovasoa/SQLpage) ⭐ 2,538 | 🐛 135 | 🌐 Rust | 📅 2026-08-13 - Open-source SQL-only website builder
+* [WhoDB](https://github.com/clidey/whodb) ⭐ 5,007 | 🐛 20 | 🌐 Go | 📅 2026-08-14 - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
+* [SchemaSpy](https://github.com/schemaspy/schemaspy) ⭐ 3,705 | 🐛 302 | 🌐 HTML | 📅 2026-03-05 - we will do the best to simplify documentation process of your database
+* [SQLPage](https://github.com/lovasoa/SQLpage) ⭐ 2,538 | 🐛 136 | 🌐 Rust | 📅 2026-08-13 - Open-source SQL-only website builder
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) ⭐ 1,424 | 🐛 11 | 🌐 Python | 📅 2026-05-05 - ERAlchemy generates Entity Relation (ER) diagram from databases
-* [sqruff](https://github.com/quarylabs/sqruff) ⭐ 1,370 | 🐛 52 | 🌐 Rust | 📅 2026-08-13 - A SQL linter and formatter written in Rust that supports various SQL dialects and integrates with VSCode through a plugin.
+* [sqruff](https://github.com/quarylabs/sqruff) ⭐ 1,371 | 🐛 50 | 🌐 Rust | 📅 2026-08-14 - A SQL linter and formatter written in Rust that supports various SQL dialects and integrates with VSCode through a plugin.
 * [PixQL](https://github.com/Phildo/pixQL) ⭐ 383 | 🐛 3 | 🌐 C | 📅 2018-08-06 - Command-line image processing tool in SQL by @Phildo
 * [BigBash](https://github.com/zalando/bigbash) ⭐ 296 | 🐛 3 | 🌐 Java | 📅 2016-07-16 - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
 * [SlowQL](https://github.com/makroumi/slowql) ⭐ 220 | 🐛 2 | 🌐 Rust | 📅 2026-06-30 - SQL static analyzer with extensive rules for security, performance, and quality. Zero dependencies, completely offline.
@@ -68,4 +68,4 @@ List of tools and techniques for working with relational databases inspired by o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

@@ -59,7 +59,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T12:26:07Z",
+            "last_commit": "2026-08-14T04:00:17Z",
             "owner": "clidey",
             "repo": "whodb",
             "stars": 5007
@@ -76,7 +76,7 @@
             "last_commit": "2026-03-05T20:31:40Z",
             "owner": "schemaspy",
             "repo": "schemaspy",
-            "stars": 3704
+            "stars": 3705
           }
         },
         {
@@ -115,10 +115,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T14:16:10Z",
+            "last_commit": "2026-08-14T13:12:31Z",
             "owner": "quarylabs",
             "repo": "sqruff",
-            "stars": 1370
+            "stars": 1371
           }
         },
         {
@@ -258,7 +258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:20:26.989Z",
+    "last_updated": "2026-08-14T14:14:12.310Z",
     "original_repository": "danhuss/awesome-sql",
     "original_repository_sha": "6651bfab8b48238c83e05b4a2b8fc625fabcee92",
     "enhanced_repository": "enhansome/enhansome-sql",
