@@ -48,7 +48,7 @@
             "last_commit": "2026-08-03T15:06:13Z",
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13351
+            "stars": 13352
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T03:32:02Z",
+            "last_commit": "2026-08-16T03:34:05Z",
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5006
+            "stars": 5009
           }
         },
         {
@@ -115,7 +115,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T10:26:30Z",
+            "last_commit": "2026-08-16T13:15:14Z",
             "owner": "quarylabs",
             "repo": "sqruff",
             "stars": 1372
@@ -258,7 +258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:26:48.597Z",
+    "last_updated": "2026-08-16T13:27:03.133Z",
     "original_repository": "danhuss/awesome-sql",
     "original_repository_sha": "6651bfab8b48238c83e05b4a2b8fc625fabcee92",
     "enhanced_repository": "enhansome/enhansome-sql",
