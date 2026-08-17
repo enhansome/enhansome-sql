@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T03:34:05Z",
+            "last_commit": "2026-08-17T13:12:34Z",
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5009
+            "stars": 5007
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-03-05T20:31:40Z",
             "owner": "schemaspy",
             "repo": "schemaspy",
-            "stars": 3706
+            "stars": 3708
           }
         },
         {
@@ -87,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T06:32:23Z",
+            "last_commit": "2026-08-17T12:41:57Z",
             "owner": "sqlpage",
             "repo": "SQLPage",
             "stars": 2541
@@ -115,7 +115,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T13:15:14Z",
+            "last_commit": "2026-08-17T13:05:22Z",
             "owner": "quarylabs",
             "repo": "sqruff",
             "stars": 1372
@@ -160,7 +160,7 @@
             "last_commit": "2026-06-30T00:17:16Z",
             "owner": "slowql",
             "repo": "slowql",
-            "stars": 220
+            "stars": 222
           }
         },
         {
@@ -258,7 +258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:27:03.133Z",
+    "last_updated": "2026-08-17T13:36:06.416Z",
     "original_repository": "danhuss/awesome-sql",
     "original_repository_sha": "6651bfab8b48238c83e05b4a2b8fc625fabcee92",
     "enhanced_repository": "enhansome/enhansome-sql",
