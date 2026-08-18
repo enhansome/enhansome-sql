@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-03T15:06:13Z",
+            "last_commit": "2026-08-18T05:17:30Z",
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13352
+            "stars": 13354
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T13:12:34Z",
+            "last_commit": "2026-08-18T04:00:17Z",
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5007
+            "stars": 5008
           }
         },
         {
@@ -87,10 +87,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T12:41:57Z",
+            "last_commit": "2026-08-18T11:16:49Z",
             "owner": "sqlpage",
             "repo": "SQLPage",
-            "stars": 2541
+            "stars": 2542
           }
         },
         {
@@ -115,7 +115,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T13:05:22Z",
+            "last_commit": "2026-08-18T13:10:39Z",
             "owner": "quarylabs",
             "repo": "sqruff",
             "stars": 1372
@@ -160,7 +160,7 @@
             "last_commit": "2026-06-30T00:17:16Z",
             "owner": "slowql",
             "repo": "slowql",
-            "stars": 222
+            "stars": 223
           }
         },
         {
@@ -213,7 +213,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2025-02-21T16:01:37Z",
+            "last_commit": "2026-08-17T14:10:56Z",
             "owner": "djberube",
             "repo": "sqlaxe",
             "stars": 8
@@ -250,7 +250,7 @@
             "last_commit": "2026-03-09T15:25:34Z",
             "owner": "mergisi",
             "repo": "sql-syntax-cheat-sheet",
-            "stars": 52
+            "stars": 53
           }
         }
       ],
@@ -258,7 +258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:36:06.416Z",
+    "last_updated": "2026-08-18T13:38:27.574Z",
     "original_repository": "danhuss/awesome-sql",
     "original_repository_sha": "6651bfab8b48238c83e05b4a2b8fc625fabcee92",
     "enhanced_repository": "enhansome/enhansome-sql",
