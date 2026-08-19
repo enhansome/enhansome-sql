@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31078930,
             "language": "PLSQL",
             "last_commit": "2023-03-10T07:16:57Z",
             "owner": "mortenbra",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13073966,
             "language": "PLSQL",
             "last_commit": "2020-03-11T12:37:19Z",
             "owner": "doberkofler",
@@ -35,7 +37,7 @@
       "title": "Oracle"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25126616,
             "language": "Python",
             "last_commit": "2026-08-18T05:17:30Z",
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13354
+            "stars": 13355
           }
         },
         {
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 813564769,
             "language": "Go",
-            "last_commit": "2026-08-18T04:00:17Z",
+            "last_commit": "2026-08-19T04:01:46Z",
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5008
+            "stars": 5009
           }
         },
         {
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64106157,
             "language": "HTML",
             "last_commit": "2026-03-05T20:31:40Z",
             "owner": "schemaspy",
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 519912039,
             "language": "Rust",
             "last_commit": "2026-08-18T11:16:49Z",
             "owner": "sqlpage",
             "repo": "SQLPage",
-            "stars": 2542
+            "stars": 2543
           }
         },
         {
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34818433,
             "language": "Python",
             "last_commit": "2026-05-05T14:20:10Z",
             "owner": "eralchemy",
             "repo": "eralchemy",
-            "stars": 1424
+            "stars": 1426
           }
         },
         {
@@ -114,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 601303277,
             "language": "Rust",
-            "last_commit": "2026-08-18T13:10:39Z",
+            "last_commit": "2026-08-19T08:24:16Z",
             "owner": "quarylabs",
             "repo": "sqruff",
-            "stars": 1372
+            "stars": 1373
           }
         },
         {
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35735089,
             "language": "C",
             "last_commit": "2018-08-06T21:25:23Z",
             "owner": "Phildo",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51150130,
             "language": "Java",
             "last_commit": "2016-07-16T13:35:20Z",
             "owner": "Borisvl",
@@ -156,11 +166,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1100350660,
             "language": "Rust",
             "last_commit": "2026-06-30T00:17:16Z",
             "owner": "slowql",
             "repo": "slowql",
-            "stars": 223
+            "stars": 224
           }
         },
         {
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1018723628,
             "language": "Python",
             "last_commit": "2025-08-27T15:16:02Z",
             "owner": "itrummer",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 330770524,
             "language": "JavaScript",
             "last_commit": "2021-10-31T16:41:35Z",
             "owner": "Mission-Kontrol",
@@ -198,8 +211,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1067478404,
             "language": "Rust",
-            "last_commit": "2026-08-15T12:52:47Z",
+            "last_commit": "2026-08-19T08:13:01Z",
             "owner": "HelgeSverre",
             "repo": "sql-splitter",
             "stars": 13
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 817407005,
             "language": "Python",
             "last_commit": "2026-08-17T14:10:56Z",
             "owner": "djberube",
@@ -223,7 +238,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -232,11 +247,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 859686186,
             "language": "SQL",
             "last_commit": "2025-11-23T09:17:14Z",
             "owner": "ben-nour",
             "repo": "SQL-tips-and-tricks",
-            "stars": 2302
+            "stars": 2301
           }
         },
         {
@@ -246,11 +262,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 858758441,
             "language": null,
             "last_commit": "2026-03-09T15:25:34Z",
             "owner": "mergisi",
             "repo": "sql-syntax-cheat-sheet",
-            "stars": 53
+            "stars": 54
           }
         }
       ],
@@ -258,8 +275,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:38:27.574Z",
+    "last_updated": "2026-08-19T12:52:42.034Z",
     "original_repository": "danhuss/awesome-sql",
+    "original_repository_id": 27949400,
     "original_repository_sha": "6651bfab8b48238c83e05b4a2b8fc625fabcee92",
     "enhanced_repository": "enhansome/enhansome-sql",
     "enhanced_repository_description": null,
