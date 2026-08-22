@@ -51,7 +51,7 @@
             "last_commit": "2026-08-18T05:17:30Z",
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13357
+            "stars": 13360
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 813564769,
             "language": "Go",
-            "last_commit": "2026-08-21T13:32:08Z",
+            "last_commit": "2026-08-22T03:31:01Z",
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5010
+            "stars": 5012
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-05-05T14:20:10Z",
             "owner": "eralchemy",
             "repo": "eralchemy",
-            "stars": 1426
+            "stars": 1427
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 601303277,
             "language": "Rust",
-            "last_commit": "2026-08-21T10:47:57Z",
+            "last_commit": "2026-08-22T13:07:29Z",
             "owner": "quarylabs",
             "repo": "sqruff",
-            "stars": 1375
+            "stars": 1376
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-06-30T00:17:16Z",
             "owner": "slowql",
             "repo": "slowql",
-            "stars": 224
+            "stars": 225
           }
         },
         {
@@ -213,7 +213,7 @@
             "archived": false,
             "id": 1067478404,
             "language": "Rust",
-            "last_commit": "2026-08-19T08:13:01Z",
+            "last_commit": "2026-08-22T12:52:58Z",
             "owner": "HelgeSverre",
             "repo": "sql-splitter",
             "stars": 14
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:41:17.619Z",
+    "last_updated": "2026-08-22T13:27:36.862Z",
     "original_repository": "danhuss/awesome-sql",
     "original_repository_id": 27949400,
     "original_repository_sha": "6651bfab8b48238c83e05b4a2b8fc625fabcee92",
