@@ -2,7 +2,7 @@
 
 List of tools and techniques for working with relational databases inspired by other awesome lists.
 
-* [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,057 | 🐛 68 | 📅 2026-05-21 - There is alread a whole awesome list just for PostgreSQL.
+* [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,058 | 🐛 68 | 📅 2026-05-21 - There is alread a whole awesome list just for PostgreSQL.
 * [MySQL](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2,609 | 🐛 17 | 🌐 Python | 📅 2026-08-17 - There is already a whole awesome list just for MySQL.
 * [Oracle](#oracle) - Software and packages specifically for Oracle and PL/SQL.
 * [SQL Server](#sqlserver) - Software and packages specifically for SQL Server and T-SQL.
