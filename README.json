@@ -5,6 +5,42 @@
       "items": [
         {
           "node_type": "item",
+          "title": "PostgreSQL",
+          "description": "There is alread a whole awesome list just for PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40072159,
+            "language": null,
+            "last_commit": "2026-05-21T14:10:48Z",
+            "owner": "dhamaniasad",
+            "repo": "awesome-postgres",
+            "stars": 12057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MySQL",
+          "description": "There is already a whole awesome list just for MySQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32276625,
+            "language": "Python",
+            "last_commit": "2026-08-17T12:26:05Z",
+            "owner": "shlomi-noach",
+            "repo": "awesome-mysql",
+            "stars": 2609
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Alexandria PL/SQL Utility Library",
           "description": "Collection of utility packages for PL/SQL",
           "children": [],
@@ -41,6 +77,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "MSSqlCLI",
+          "description": "A command-line client for SQL Server with auto-completion and syntax highlighting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 106766050,
+            "language": "Python",
+            "last_commit": "2024-02-26T20:08:44Z",
+            "owner": "dbcli",
+            "repo": "mssql-cli",
+            "stars": 1412
+          }
+        }
+      ],
+      "title": "SQL Server"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Poor SQL",
+          "description": "Instant Free and Open-Source T-SQL Formatting (look here for the plugins and whatnot: https://github.com/TaoK/PoorMansTSqlFormatter )",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1660828,
+            "language": "JavaScript",
+            "last_commit": "2023-07-14T07:49:43Z",
+            "owner": "TaoK",
+            "repo": "PoorMansTSqlFormatter",
+            "stars": 1021
+          }
+        }
+      ],
+      "title": "Formatters"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "PgCLI",
           "description": "Postgres CLI with autocompletion and syntax highlighting",
           "children": [],
@@ -51,7 +129,7 @@
             "last_commit": "2026-08-18T05:17:30Z",
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13361
+            "stars": 13364
           }
         },
         {
@@ -93,10 +171,10 @@
             "archived": false,
             "id": 519912039,
             "language": "Rust",
-            "last_commit": "2026-08-23T08:22:51Z",
+            "last_commit": "2026-08-23T15:42:39Z",
             "owner": "sqlpage",
             "repo": "SQLPage",
-            "stars": 2542
+            "stars": 2543
           }
         },
         {
@@ -123,10 +201,10 @@
             "archived": false,
             "id": 601303277,
             "language": "Rust",
-            "last_commit": "2026-08-23T13:13:52Z",
+            "last_commit": "2026-08-24T11:29:45Z",
             "owner": "quarylabs",
             "repo": "sqruff",
-            "stars": 1376
+            "stars": 1377
           }
         },
         {
@@ -216,7 +294,7 @@
             "last_commit": "2026-08-22T12:52:58Z",
             "owner": "HelgeSverre",
             "repo": "sql-splitter",
-            "stars": 14
+            "stars": 15
           }
         },
         {
@@ -231,7 +309,7 @@
             "last_commit": "2026-08-17T14:10:56Z",
             "owner": "djberube",
             "repo": "sqlaxe",
-            "stars": 8
+            "stars": 9
           }
         }
       ],
@@ -275,7 +353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:28:44.825Z",
+    "last_updated": "2026-08-24T13:47:19.964Z",
     "original_repository": "danhuss/awesome-sql",
     "original_repository_id": 27949400,
     "original_repository_sha": "6651bfab8b48238c83e05b4a2b8fc625fabcee92",
