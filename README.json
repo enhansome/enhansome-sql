@@ -15,7 +15,7 @@
             "last_commit": "2026-05-21T14:10:48Z",
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12058
+            "stars": 12059
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2026-08-24T15:43:08Z",
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13366
+            "stars": 13367
           }
         },
         {
@@ -141,7 +141,7 @@
             "archived": false,
             "id": 813564769,
             "language": "Go",
-            "last_commit": "2026-08-24T17:54:58Z",
+            "last_commit": "2026-08-25T13:28:40Z",
             "owner": "clidey",
             "repo": "whodb",
             "stars": 5012
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-24T22:46:35Z",
             "owner": "sqlpage",
             "repo": "SQLPage",
-            "stars": 2543
+            "stars": 2544
           }
         },
         {
@@ -201,10 +201,10 @@
             "archived": false,
             "id": 601303277,
             "language": "Rust",
-            "last_commit": "2026-08-24T20:47:06Z",
+            "last_commit": "2026-08-25T13:30:54Z",
             "owner": "quarylabs",
             "repo": "sqruff",
-            "stars": 1377
+            "stars": 1376
           }
         },
         {
@@ -353,7 +353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:20:52.303Z",
+    "last_updated": "2026-08-25T13:45:18.303Z",
     "original_repository": "danhuss/awesome-sql",
     "original_repository_id": 27949400,
     "original_repository_sha": "6651bfab8b48238c83e05b4a2b8fc625fabcee92",
