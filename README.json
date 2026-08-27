@@ -15,7 +15,7 @@
             "last_commit": "2026-05-21T14:10:48Z",
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12061
+            "stars": 12062
           }
         },
         {
@@ -126,10 +126,10 @@
             "archived": false,
             "id": 25126616,
             "language": "Python",
-            "last_commit": "2026-08-26T08:04:19Z",
+            "last_commit": "2026-08-27T10:21:06Z",
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13367
+            "stars": 13368
           }
         },
         {
@@ -141,10 +141,10 @@
             "archived": false,
             "id": 813564769,
             "language": "Go",
-            "last_commit": "2026-08-26T10:38:58Z",
+            "last_commit": "2026-08-27T05:05:07Z",
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5014
+            "stars": 5015
           }
         },
         {
@@ -171,10 +171,10 @@
             "archived": false,
             "id": 519912039,
             "language": "Rust",
-            "last_commit": "2026-08-26T13:19:50Z",
+            "last_commit": "2026-08-26T15:55:38Z",
             "owner": "sqlpage",
             "repo": "SQLPage",
-            "stars": 2545
+            "stars": 2546
           }
         },
         {
@@ -201,10 +201,10 @@
             "archived": false,
             "id": 601303277,
             "language": "Rust",
-            "last_commit": "2026-08-26T12:52:11Z",
+            "last_commit": "2026-08-26T15:14:29Z",
             "owner": "quarylabs",
             "repo": "sqruff",
-            "stars": 1377
+            "stars": 1379
           }
         },
         {
@@ -353,9 +353,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:51:08.167Z",
-    "original_repository": "danhuss/awesome-sql",
-    "original_repository_id": 27949400,
+    "last_updated": "2026-08-27T12:05:49.185Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 27949400,
+      "language": null,
+      "last_commit": "2026-04-25T14:15:25Z",
+      "owner": "danhuss",
+      "repo": "awesome-sql",
+      "stars": 451
+    },
     "original_repository_sha": "6651bfab8b48238c83e05b4a2b8fc625fabcee92",
     "enhanced_repository": "enhansome/enhansome-sql",
     "enhanced_repository_description": null,
