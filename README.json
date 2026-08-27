@@ -15,7 +15,7 @@
             "last_commit": "2026-05-21T14:10:48Z",
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12062
+            "stars": 12064
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T12:26:05Z",
             "owner": "shlomi-noach",
             "repo": "awesome-mysql",
-            "stars": 2610
+            "stars": 2611
           }
         }
       ],
@@ -189,7 +189,7 @@
             "last_commit": "2026-05-05T14:20:10Z",
             "owner": "eralchemy",
             "repo": "eralchemy",
-            "stars": 1426
+            "stars": 1427
           }
         },
         {
@@ -201,7 +201,7 @@
             "archived": false,
             "id": 601303277,
             "language": "Rust",
-            "last_commit": "2026-08-26T15:14:29Z",
+            "last_commit": "2026-08-27T20:40:09Z",
             "owner": "quarylabs",
             "repo": "sqruff",
             "stars": 1379
@@ -249,7 +249,7 @@
             "last_commit": "2026-06-30T00:17:16Z",
             "owner": "slowql",
             "repo": "slowql",
-            "stars": 226
+            "stars": 227
           }
         },
         {
@@ -353,7 +353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:49.185Z",
+    "last_updated": "2026-08-27T22:44:28.656Z",
     "original_repository_info": {
       "archived": false,
       "id": 27949400,
