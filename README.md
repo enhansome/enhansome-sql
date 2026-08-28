@@ -3,7 +3,7 @@
 List of tools and techniques for working with relational databases inspired by other awesome lists.
 
 * [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,064 | 🐛 70 | 📅 2026-05-21 - There is alread a whole awesome list just for PostgreSQL.
-* [MySQL](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2,611 | 🐛 17 | 🌐 Python | 📅 2026-08-17 - There is already a whole awesome list just for MySQL.
+* [MySQL](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2,610 | 🐛 17 | 🌐 Python | 📅 2026-08-17 - There is already a whole awesome list just for MySQL.
 * [Oracle](#oracle) - Software and packages specifically for Oracle and PL/SQL.
 * [SQL Server](#sqlserver) - Software and packages specifically for SQL Server and T-SQL.
 * Cross Platform Stuff
@@ -36,12 +36,12 @@ List of tools and techniques for working with relational databases inspired by o
 
 ## <a name="tools"></a>Tools
 
-* [PgCLI](https://github.com/dbcli/pgcli) ⭐ 13,368 | 🐛 40 | 🌐 Python | 📅 2026-08-27 - Postgres CLI with autocompletion and syntax highlighting
-* [WhoDB](https://github.com/clidey/whodb) ⭐ 5,015 | 🐛 31 | 🌐 Go | 📅 2026-08-27 - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
-* [SchemaSpy](https://github.com/schemaspy/schemaspy) ⭐ 3,710 | 🐛 302 | 🌐 HTML | 📅 2026-03-05 - we will do the best to simplify documentation process of your database
-* [SQLPage](https://github.com/lovasoa/SQLpage) ⭐ 2,546 | 🐛 124 | 🌐 Rust | 📅 2026-08-26 - Open-source SQL-only website builder
+* [PgCLI](https://github.com/dbcli/pgcli) ⭐ 13,370 | 🐛 41 | 🌐 Python | 📅 2026-08-27 - Postgres CLI with autocompletion and syntax highlighting
+* [WhoDB](https://github.com/clidey/whodb) ⭐ 5,016 | 🐛 32 | 🌐 Go | 📅 2026-08-28 - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
+* [SchemaSpy](https://github.com/schemaspy/schemaspy) ⭐ 3,712 | 🐛 302 | 🌐 HTML | 📅 2026-03-05 - we will do the best to simplify documentation process of your database
+* [SQLPage](https://github.com/lovasoa/SQLpage) ⭐ 2,549 | 🐛 124 | 🌐 Rust | 📅 2026-08-26 - Open-source SQL-only website builder
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) ⭐ 1,427 | 🐛 11 | 🌐 Python | 📅 2026-05-05 - ERAlchemy generates Entity Relation (ER) diagram from databases
-* [sqruff](https://github.com/quarylabs/sqruff) ⭐ 1,379 | 🐛 69 | 🌐 Rust | 📅 2026-08-27 - A SQL linter and formatter written in Rust that supports various SQL dialects and integrates with VSCode through a plugin.
+* [sqruff](https://github.com/quarylabs/sqruff) ⭐ 1,380 | 🐛 56 | 🌐 Rust | 📅 2026-08-28 - A SQL linter and formatter written in Rust that supports various SQL dialects and integrates with VSCode through a plugin.
 * [PixQL](https://github.com/Phildo/pixQL) ⭐ 383 | 🐛 3 | 🌐 C | 📅 2018-08-06 - Command-line image processing tool in SQL by @Phildo
 * [BigBash](https://github.com/zalando/bigbash) ⭐ 296 | 🐛 3 | 🌐 Java | 📅 2016-07-16 - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
 * [SlowQL](https://github.com/makroumi/slowql) ⭐ 227 | 🐛 2 | 🌐 Rust | 📅 2026-06-30 - SQL static analyzer with extensive rules for security, performance, and quality. Zero dependencies, completely offline.
@@ -60,7 +60,7 @@ List of tools and techniques for working with relational databases inspired by o
 
 ## <a name="resources"></a>Resources
 
-* [SQL tips and tricks](https://github.com/ben-nour/SQL-tips-and-tricks) ⭐ 2,300 | 🐛 2 | 🌐 SQL | 📅 2025-11-23 - SQL tips that cover everything from readability to common pitfalls.
+* [SQL tips and tricks](https://github.com/ben-nour/SQL-tips-and-tricks) ⭐ 2,301 | 🐛 2 | 🌐 SQL | 📅 2025-11-23 - SQL tips that cover everything from readability to common pitfalls.
 * [SQL Syntax Cheat Sheet](https://github.com/mergisi/sql-syntax-cheat-sheet) ⭐ 54 | 🐛 0 | 📅 2026-03-09 - Comprehensive SQL reference including: DDL, DML, JOINs, window functions, CTEs, performance tips, and common mistakes.
 * [Curated SQL Learning Resources on Hackr.io](https://hackr.io/tutorials/learn-sql) - Programming Community Curated Resources for learning SQL
 * [Basic and advanced concepts of SQL with examples on Scaler](https://www.scaler.com/topics/sql/) - A curated interactive space for aspiring programmers to learn and master their SQL skills.
@@ -68,4 +68,4 @@ List of tools and techniques for working with relational databases inspired by o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

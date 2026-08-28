@@ -16,7 +16,8 @@
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
             "stars": 12064
-          }
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-17T12:26:05Z",
             "owner": "shlomi-noach",
             "repo": "awesome-mysql",
-            "stars": 2611
-          }
+            "stars": 2610
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         }
       ],
       "title": "Overview"
@@ -52,7 +54,8 @@
             "owner": "mortenbra",
             "repo": "alexandria-plsql-utils",
             "stars": 834
-          }
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "doberkofler",
             "repo": "PLSQL-JSON",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         }
       ],
       "title": "Oracle"
@@ -88,7 +92,8 @@
             "owner": "dbcli",
             "repo": "mssql-cli",
             "stars": 1412
-          }
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         }
       ],
       "title": "SQL Server"
@@ -109,7 +114,8 @@
             "owner": "TaoK",
             "repo": "PoorMansTSqlFormatter",
             "stars": 1021
-          }
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         }
       ],
       "title": "Formatters"
@@ -129,8 +135,9 @@
             "last_commit": "2026-08-27T10:21:06Z",
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13368
-          }
+            "stars": 13370
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         },
         {
           "node_type": "item",
@@ -141,11 +148,12 @@
             "archived": false,
             "id": 813564769,
             "language": "Go",
-            "last_commit": "2026-08-27T05:05:07Z",
+            "last_commit": "2026-08-28T17:54:02Z",
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5015
-          }
+            "stars": 5016
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         },
         {
           "node_type": "item",
@@ -159,8 +167,9 @@
             "last_commit": "2026-03-05T20:31:40Z",
             "owner": "schemaspy",
             "repo": "schemaspy",
-            "stars": 3710
-          }
+            "stars": 3712
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         },
         {
           "node_type": "item",
@@ -174,8 +183,9 @@
             "last_commit": "2026-08-26T15:55:38Z",
             "owner": "sqlpage",
             "repo": "SQLPage",
-            "stars": 2546
-          }
+            "stars": 2549
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         },
         {
           "node_type": "item",
@@ -190,7 +200,8 @@
             "owner": "eralchemy",
             "repo": "eralchemy",
             "stars": 1427
-          }
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         },
         {
           "node_type": "item",
@@ -201,11 +212,12 @@
             "archived": false,
             "id": 601303277,
             "language": "Rust",
-            "last_commit": "2026-08-27T20:40:09Z",
+            "last_commit": "2026-08-28T21:33:02Z",
             "owner": "quarylabs",
             "repo": "sqruff",
-            "stars": 1379
-          }
+            "stars": 1380
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         },
         {
           "node_type": "item",
@@ -220,7 +232,8 @@
             "owner": "Phildo",
             "repo": "pixQL",
             "stars": 383
-          }
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         },
         {
           "node_type": "item",
@@ -235,7 +248,8 @@
             "owner": "Borisvl",
             "repo": "bigbash",
             "stars": 296
-          }
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         },
         {
           "node_type": "item",
@@ -250,7 +264,8 @@
             "owner": "slowql",
             "repo": "slowql",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         },
         {
           "node_type": "item",
@@ -265,7 +280,8 @@
             "owner": "itrummer",
             "repo": "thalamusdb",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         },
         {
           "node_type": "item",
@@ -280,7 +296,8 @@
             "owner": "Mission-Kontrol",
             "repo": "MissionKontrol",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         },
         {
           "node_type": "item",
@@ -295,7 +312,8 @@
             "owner": "HelgeSverre",
             "repo": "sql-splitter",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         },
         {
           "node_type": "item",
@@ -310,7 +328,8 @@
             "owner": "djberube",
             "repo": "sqlaxe",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         }
       ],
       "title": "Tools"
@@ -330,8 +349,9 @@
             "last_commit": "2025-11-23T09:17:14Z",
             "owner": "ben-nour",
             "repo": "SQL-tips-and-tricks",
-            "stars": 2300
-          }
+            "stars": 2301
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         },
         {
           "node_type": "item",
@@ -346,14 +366,15 @@
             "owner": "mergisi",
             "repo": "sql-syntax-cheat-sheet",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T22:51:32.277Z"
         }
       ],
       "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:44:28.656Z",
+    "last_updated": "2026-08-28T22:51:32.277Z",
     "original_repository_info": {
       "archived": false,
       "id": 27949400,
