@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql",
+            "homepage": "http://dhamaniasad.github.io/awesome-postgres",
             "id": 40072159,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-21T14:10:48Z",
+            "open_issues": 70,
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12064
+            "stars": 12065,
+            "topics": [
+              "database",
+              "postgres",
+              "postgresql"
+            ]
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         },
@@ -26,12 +35,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome MySQL software, libraries, tools and resources",
+            "homepage": null,
             "id": 32276625,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T12:26:05Z",
+            "open_issues": 17,
             "owner": "shlomi-noach",
             "repo": "awesome-mysql",
-            "stars": 2610
+            "stars": 2610,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         }
@@ -48,12 +62,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Oracle PL/SQL Utility Library",
+            "homepage": null,
             "id": 31078930,
             "language": "PLSQL",
+            "license": null,
             "last_commit": "2023-03-10T07:16:57Z",
+            "open_issues": 41,
             "owner": "mortenbra",
             "repo": "alexandria-plsql-utils",
-            "stars": 834
+            "stars": 834,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         },
@@ -64,12 +83,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The JSON encode/decode library for Oracle PL/SQL",
+            "homepage": null,
             "id": 13073966,
             "language": "PLSQL",
+            "license": "MIT",
             "last_commit": "2020-03-11T12:37:19Z",
+            "open_issues": 1,
             "owner": "doberkofler",
             "repo": "PLSQL-JSON",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         }
@@ -86,12 +110,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command-line client for SQL Server with auto-completion and syntax highlighting",
+            "homepage": null,
             "id": 106766050,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-02-26T20:08:44Z",
+            "open_issues": 162,
             "owner": "dbcli",
             "repo": "mssql-cli",
-            "stars": 1412
+            "stars": 1412,
+            "topics": [
+              "cli",
+              "database",
+              "python",
+              "sqlserver"
+            ]
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         }
@@ -108,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small free .Net and JS library (with demo UI, command-line bulk formatter, SSMS/VS add-in, notepad++ plugin, winmerge plugin, and demo webpage) for reformatting and coloring T-SQL code to the user's preferences.",
+            "homepage": "http://www.architectshack.com/PoorMansTSqlFormatter.ashx",
             "id": 1660828,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2023-07-14T07:49:43Z",
+            "open_issues": 158,
             "owner": "TaoK",
             "repo": "PoorMansTSqlFormatter",
-            "stars": 1021
+            "stars": 1021,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         }
@@ -130,12 +169,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Postgres CLI with autocompletion and syntax highlighting",
+            "homepage": "http://pgcli.com",
             "id": 25126616,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T10:21:06Z",
+            "open_issues": 42,
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13370
+            "stars": 13370,
+            "topics": [
+              "database",
+              "postgres",
+              "postgresql",
+              "psql",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         },
@@ -146,12 +196,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Where data access meets operational intelligence",
+            "homepage": "https://whodb.com",
             "id": 813564769,
             "language": "Go",
-            "last_commit": "2026-08-28T17:54:02Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:28:46Z",
+            "open_issues": 32,
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5016
+            "stars": 5017,
+            "topics": [
+              "ai-agent",
+              "data-catalog",
+              "data-governance",
+              "data-integration",
+              "data-lineage",
+              "data-pipeline",
+              "data-platform",
+              "database-management",
+              "er-diagram",
+              "internal-tools",
+              "mcp-server",
+              "model-context-protocol",
+              "mysql",
+              "oracle",
+              "postgresql",
+              "self-hosted",
+              "sql-editor",
+              "sqlserver",
+              "text-to-sql",
+              "visual-query-builder"
+            ]
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         },
@@ -162,12 +238,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Database documentation built easy",
+            "homepage": "http://schemaspy.org",
             "id": 64106157,
             "language": "HTML",
+            "license": "LGPL-3.0",
             "last_commit": "2026-03-05T20:31:40Z",
+            "open_issues": 302,
             "owner": "schemaspy",
             "repo": "schemaspy",
-            "stars": 3712
+            "stars": 3712,
+            "topics": [
+              "data-dictionary",
+              "database",
+              "database-diagrams",
+              "database-documentation",
+              "database-schemas",
+              "documentation",
+              "entity-relationship-diagram",
+              "er-diagram",
+              "java",
+              "reverse-engineering",
+              "schema",
+              "schemaspy"
+            ]
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         },
@@ -178,12 +272,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast SQL-only data application builder. Automatically build a UI on top of SQL queries. ",
+            "homepage": "https://sql-page.com",
             "id": 519912039,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-26T15:55:38Z",
+            "open_issues": 124,
             "owner": "sqlpage",
             "repo": "SQLPage",
-            "stars": 2549
+            "stars": 2549,
+            "topics": [
+              "database",
+              "framework",
+              "mysql",
+              "postgresql",
+              "server",
+              "serverless",
+              "sql",
+              "sqlite",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         },
@@ -194,12 +303,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Entity Relation Diagrams generation tool",
+            "homepage": null,
             "id": 34818433,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-05T14:20:10Z",
+            "open_issues": 11,
             "owner": "eralchemy",
             "repo": "eralchemy",
-            "stars": 1427
+            "stars": 1427,
+            "topics": [
+              "database",
+              "documentation-tool",
+              "mysql",
+              "postgresql",
+              "schema",
+              "sql",
+              "sqlalchemy",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         },
@@ -210,12 +333,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast SQL formatter/linter",
+            "homepage": "https://playground.quary.dev/docs",
             "id": 601303277,
             "language": "Rust",
-            "last_commit": "2026-08-28T21:33:02Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:42:47Z",
+            "open_issues": 56,
             "owner": "quarylabs",
             "repo": "sqruff",
-            "stars": 1380
+            "stars": 1380,
+            "topics": [
+              "ansi",
+              "bigquery",
+              "clickhouse",
+              "linter",
+              "rust",
+              "snowflake",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         },
@@ -226,12 +362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SQL for image processing",
+            "homepage": null,
             "id": 35735089,
             "language": "C",
+            "license": null,
             "last_commit": "2018-08-06T21:25:23Z",
+            "open_issues": 3,
             "owner": "Phildo",
             "repo": "pixQL",
-            "stars": 383
+            "stars": 383,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         },
@@ -242,12 +383,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A converter that generates a bash one-liner from an SQL Select query (no DB necessary)",
+            "homepage": "http://bigbash.it",
             "id": 51150130,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2016-07-16T13:35:20Z",
+            "open_issues": 3,
             "owner": "Borisvl",
             "repo": "bigbash",
-            "stars": 296
+            "stars": 296,
+            "topics": [
+              "bash",
+              "converter",
+              "data",
+              "query",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         },
@@ -258,12 +410,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next-generation SQL static analyzer written in Rust. 282+ rules. Zero false positives. Security, performance, reliability, cost, compliance, quality. 14 SQL dialects. Offline. CI/CD ready.",
+            "homepage": null,
             "id": 1100350660,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-30T00:17:16Z",
+            "open_issues": 2,
             "owner": "slowql",
             "repo": "slowql",
-            "stars": 227
+            "stars": 227,
+            "topics": [
+              "bigquery",
+              "ci-cd",
+              "clickhouse",
+              "code-quality",
+              "compliance",
+              "database",
+              "developer-tools",
+              "devops",
+              "devsecops",
+              "mysql",
+              "performance",
+              "postgressql",
+              "rust",
+              "security",
+              "snowflake",
+              "sql",
+              "sql-analysis",
+              "sql-lint",
+              "sqlite",
+              "static-analyzer"
+            ]
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         },
@@ -274,12 +452,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ThalamusDB: semantic query processing on multimodal data",
+            "homepage": "https://itrummer.github.io/thalamusdb",
             "id": 1018723628,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-27T15:16:02Z",
+            "open_issues": 0,
             "owner": "itrummer",
             "repo": "thalamusdb",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "approximate-processing",
+              "llm",
+              "multimodal-data",
+              "semantic-query-processing"
+            ]
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         },
@@ -290,12 +478,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern, self-hosted admin panel that supports MySQL & PostGres DBs good alternative to rails admin or phpmyadmin.",
+            "homepage": "https://www.missionkontrol.io",
             "id": 330770524,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2021-10-31T16:41:35Z",
+            "open_issues": 6,
             "owner": "Mission-Kontrol",
             "repo": "MissionKontrol",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "admin-dashboard",
+              "admin-panel",
+              "admin-ui",
+              "mysql-client",
+              "postgres-client",
+              "postgres-gui"
+            ]
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         },
@@ -306,12 +506,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Split large SQL dump files into individual table files. Fast, memory-efficient, multi-dialect.",
+            "homepage": "https://sql-splitter.dev/",
             "id": 1067478404,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-22T12:52:58Z",
+            "open_issues": 1,
             "owner": "HelgeSverre",
             "repo": "sql-splitter",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "cli",
+              "database",
+              "devtools",
+              "mysql",
+              "mysqldump",
+              "postgresql",
+              "rust",
+              "sql",
+              "sql-dump",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         },
@@ -322,12 +538,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 817407005,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T14:10:56Z",
+            "open_issues": 1,
             "owner": "djberube",
             "repo": "sqlaxe",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         }
@@ -344,12 +565,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SQL tips and tricks",
+            "homepage": null,
             "id": 859686186,
             "language": "SQL",
+            "license": "MIT",
             "last_commit": "2025-11-23T09:17:14Z",
+            "open_issues": 2,
             "owner": "ben-nour",
             "repo": "SQL-tips-and-tricks",
-            "stars": 2301
+            "stars": 2301,
+            "topics": [
+              "mysql",
+              "snowflake",
+              "sql",
+              "sqlite",
+              "tips",
+              "tips-and-tricks"
+            ]
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         },
@@ -360,12 +593,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive SQL syntax cheat sheet for quick reference, covering essential commands, functions, operators, and concepts across various database systems.",
+            "homepage": null,
             "id": 858758441,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-03-09T15:25:34Z",
+            "open_issues": 0,
             "owner": "mergisi",
             "repo": "sql-syntax-cheat-sheet",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
         }
@@ -374,15 +612,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:51:32.277Z",
+    "last_updated": "2026-08-29T04:44:05.220Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of tools and techniques for working with relational databases.",
+      "homepage": null,
       "id": 27949400,
       "language": null,
+      "license": null,
       "last_commit": "2026-04-25T14:15:25Z",
+      "open_issues": 22,
       "owner": "danhuss",
       "repo": "awesome-sql",
-      "stars": 451
+      "stars": 451,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "database",
+        "oracle",
+        "postgresql",
+        "sql",
+        "sql-server"
+      ]
     },
     "original_repository_sha": "6651bfab8b48238c83e05b4a2b8fc625fabcee92",
     "enhanced_repository": "enhansome/enhansome-sql",
