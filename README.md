@@ -2,7 +2,7 @@
 
 List of tools and techniques for working with relational databases inspired by other awesome lists.
 
-* [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,074 | 🐛 59 | 📅 2026-08-31 - There is alread a whole awesome list just for PostgreSQL.
+* [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,076 | 🐛 59 | 📅 2026-08-31 - There is alread a whole awesome list just for PostgreSQL.
 * [MySQL](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2,610 | 🐛 18 | 🌐 Python | 📅 2026-08-17 - There is already a whole awesome list just for MySQL.
 * [Oracle](#oracle) - Software and packages specifically for Oracle and PL/SQL.
 * [SQL Server](#sqlserver) - Software and packages specifically for SQL Server and T-SQL.
@@ -22,7 +22,7 @@ List of tools and techniques for working with relational databases inspired by o
 
 ### <a name="sqlserver"></a>SQL Server
 
-* [MSSqlCLI](https://github.com/dbcli/mssql-cli) ⭐ 1,413 | 🐛 162 | 🌐 Python | 📅 2024-02-26 - A command-line client for SQL Server with auto-completion and syntax highlighting
+* [MSSqlCLI](https://github.com/dbcli/mssql-cli) ⭐ 1,414 | 🐛 162 | 🌐 Python | 📅 2024-02-26 - A command-line client for SQL Server with auto-completion and syntax highlighting
 * [SQL Server Express Edition](http://www.microsoft.com/en-us/server-cloud/products/sql-server-editions/sql-server-express.aspx) - Free SQL Server Database to develop and deploy applications
 * [SQL Server Data Tools](http://msdn.microsoft.com/en-us/data/tools.aspx) - Integrated environment for developers to design and build database and other business intelligence solutions for MS SQL Server stack.
 * [tSQLt](http://tsqlt.org/) - Unit testing framework for SQL Server
@@ -36,12 +36,12 @@ List of tools and techniques for working with relational databases inspired by o
 
 ## <a name="tools"></a>Tools
 
-* [PgCLI](https://github.com/dbcli/pgcli) ⭐ 13,372 | 🐛 38 | 🌐 Python | 📅 2026-09-03 - Postgres CLI with autocompletion and syntax highlighting
-* [WhoDB](https://github.com/clidey/whodb) ⭐ 5,018 | 🐛 35 | 🌐 Go | 📅 2026-09-03 - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
+* [PgCLI](https://github.com/dbcli/pgcli) ⭐ 13,373 | 🐛 37 | 🌐 Python | 📅 2026-09-04 - Postgres CLI with autocompletion and syntax highlighting
+* [WhoDB](https://github.com/clidey/whodb) ⭐ 5,018 | 🐛 35 | 🌐 Go | 📅 2026-09-04 - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 * [SchemaSpy](https://github.com/schemaspy/schemaspy) ⭐ 3,716 | 🐛 302 | 🌐 HTML | 📅 2026-03-05 - we will do the best to simplify documentation process of your database
 * [SQLPage](https://github.com/lovasoa/SQLpage) ⭐ 2,553 | 🐛 126 | 🌐 Rust | 📅 2026-09-03 - Open-source SQL-only website builder
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) ⭐ 1,429 | 🐛 11 | 🌐 Python | 📅 2026-05-05 - ERAlchemy generates Entity Relation (ER) diagram from databases
-* [sqruff](https://github.com/quarylabs/sqruff) ⭐ 1,380 | 🐛 99 | 🌐 Rust | 📅 2026-09-03 - A SQL linter and formatter written in Rust that supports various SQL dialects and integrates with VSCode through a plugin.
+* [sqruff](https://github.com/quarylabs/sqruff) ⭐ 1,381 | 🐛 149 | 🌐 Rust | 📅 2026-09-04 - A SQL linter and formatter written in Rust that supports various SQL dialects and integrates with VSCode through a plugin.
 * [PixQL](https://github.com/Phildo/pixQL) ⭐ 383 | 🐛 3 | 🌐 C | 📅 2018-08-06 - Command-line image processing tool in SQL by @Phildo
 * [BigBash](https://github.com/zalando/bigbash) ⭐ 296 | 🐛 3 | 🌐 Java | 📅 2016-07-16 - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
 * [SlowQL](https://github.com/makroumi/slowql) ⭐ 228 | 🐛 2 | 🌐 Rust | 📅 2026-06-30 - SQL static analyzer with extensive rules for security, performance, and quality. Zero dependencies, completely offline.
@@ -68,4 +68,4 @@ List of tools and techniques for working with relational databases inspired by o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
