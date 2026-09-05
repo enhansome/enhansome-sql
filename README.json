@@ -19,7 +19,7 @@
             "open_issues": 59,
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12076,
+            "stars": 12074,
             "topics": [
               "database",
               "postgres",
@@ -44,7 +44,7 @@
             "open_issues": 18,
             "owner": "shlomi-noach",
             "repo": "awesome-mysql",
-            "stars": 2610,
+            "stars": 2611,
             "topics": []
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
@@ -201,7 +201,7 @@
             "id": 813564769,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T03:31:28Z",
+            "last_commit": "2026-09-05T03:30:23Z",
             "open_issues": 35,
             "owner": "clidey",
             "repo": "whodb",
@@ -281,7 +281,7 @@
             "open_issues": 126,
             "owner": "sqlpage",
             "repo": "SQLPage",
-            "stars": 2553,
+            "stars": 2555,
             "topics": [
               "database",
               "framework",
@@ -338,8 +338,8 @@
             "id": 601303277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T16:36:48Z",
-            "open_issues": 149,
+            "last_commit": "2026-09-05T15:37:21Z",
+            "open_issues": 202,
             "owner": "quarylabs",
             "repo": "sqruff",
             "stars": 1381,
@@ -511,8 +511,8 @@
             "id": 1067478404,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-02T22:17:14Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-05T12:52:54Z",
+            "open_issues": 4,
             "owner": "HelgeSverre",
             "repo": "sql-splitter",
             "stars": 15,
@@ -574,7 +574,7 @@
             "open_issues": 2,
             "owner": "ben-nour",
             "repo": "SQL-tips-and-tricks",
-            "stars": 2305,
+            "stars": 2306,
             "topics": [
               "mysql",
               "snowflake",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:42:26.139Z",
+    "last_updated": "2026-09-05T15:45:06.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools and techniques for working with relational databases.",
