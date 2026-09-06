@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-31T09:07:19Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12074,
+            "stars": 12075,
             "topics": [
               "database",
               "postgres",
@@ -201,11 +201,11 @@
             "id": 813564769,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T03:30:23Z",
+            "last_commit": "2026-09-06T03:31:33Z",
             "open_issues": 35,
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5018,
+            "stars": 5019,
             "topics": [
               "ai-agent",
               "data-catalog",
@@ -277,7 +277,7 @@
             "id": 519912039,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-03T13:25:01Z",
+            "last_commit": "2026-09-06T12:36:44Z",
             "open_issues": 126,
             "owner": "sqlpage",
             "repo": "SQLPage",
@@ -312,7 +312,7 @@
             "open_issues": 11,
             "owner": "eralchemy",
             "repo": "eralchemy",
-            "stars": 1429,
+            "stars": 1430,
             "topics": [
               "database",
               "documentation-tool",
@@ -338,11 +338,11 @@
             "id": 601303277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T15:37:21Z",
-            "open_issues": 202,
+            "last_commit": "2026-09-06T13:45:23Z",
+            "open_issues": 84,
             "owner": "quarylabs",
             "repo": "sqruff",
-            "stars": 1381,
+            "stars": 1382,
             "topics": [
               "ansi",
               "bigquery",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T15:45:06.334Z",
+    "last_updated": "2026-09-06T15:57:21.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools and techniques for working with relational databases.",
