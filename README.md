@@ -2,7 +2,7 @@
 
 List of tools and techniques for working with relational databases inspired by other awesome lists.
 
-* [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,081 | 🐛 65 | 📅 2026-08-31 - There is alread a whole awesome list just for PostgreSQL.
+* [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,083 | 🐛 67 | 📅 2026-08-31 - There is alread a whole awesome list just for PostgreSQL.
 * [MySQL](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2,613 | 🐛 20 | 🌐 Python | 📅 2026-08-17 - There is already a whole awesome list just for MySQL.
 * [Oracle](#oracle) - Software and packages specifically for Oracle and PL/SQL.
 * [SQL Server](#sqlserver) - Software and packages specifically for SQL Server and T-SQL.
@@ -36,18 +36,18 @@ List of tools and techniques for working with relational databases inspired by o
 
 ## <a name="tools"></a>Tools
 
-* [PgCLI](https://github.com/dbcli/pgcli) ⭐ 13,381 | 🐛 39 | 🌐 Python | 📅 2026-09-09 - Postgres CLI with autocompletion and syntax highlighting
-* [WhoDB](https://github.com/clidey/whodb) ⭐ 5,022 | 🐛 39 | 🌐 Go | 📅 2026-09-11 - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
+* [PgCLI](https://github.com/dbcli/pgcli) ⭐ 13,383 | 🐛 41 | 🌐 Python | 📅 2026-09-09 - Postgres CLI with autocompletion and syntax highlighting
+* [WhoDB](https://github.com/clidey/whodb) ⭐ 5,024 | 🐛 40 | 🌐 Go | 📅 2026-09-12 - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 * [SchemaSpy](https://github.com/schemaspy/schemaspy) ⭐ 3,718 | 🐛 302 | 🌐 HTML | 📅 2026-03-05 - we will do the best to simplify documentation process of your database
-* [SQLPage](https://github.com/lovasoa/SQLpage) ⭐ 2,560 | 🐛 130 | 🌐 Rust | 📅 2026-09-11 - Open-source SQL-only website builder
+* [SQLPage](https://github.com/lovasoa/SQLpage) ⭐ 2,560 | 🐛 131 | 🌐 Rust | 📅 2026-09-11 - Open-source SQL-only website builder
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) ⭐ 1,433 | 🐛 11 | 🌐 Python | 📅 2026-05-05 - ERAlchemy generates Entity Relation (ER) diagram from databases
-* [sqruff](https://github.com/quarylabs/sqruff) ⭐ 1,386 | 🐛 237 | 🌐 Rust | 📅 2026-09-11 - A SQL linter and formatter written in Rust that supports various SQL dialects and integrates with VSCode through a plugin.
+* [sqruff](https://github.com/quarylabs/sqruff) ⭐ 1,386 | 🐛 254 | 🌐 Rust | 📅 2026-09-12 - A SQL linter and formatter written in Rust that supports various SQL dialects and integrates with VSCode through a plugin.
 * [PixQL](https://github.com/Phildo/pixQL) ⭐ 383 | 🐛 3 | 🌐 C | 📅 2018-08-06 - Command-line image processing tool in SQL by @Phildo
 * [BigBash](https://github.com/zalando/bigbash) ⭐ 296 | 🐛 3 | 🌐 Java | 📅 2016-07-16 - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
 * [SlowQL](https://github.com/makroumi/slowql) ⭐ 227 | 🐛 2 | 🌐 Rust | 📅 2026-06-30 - SQL static analyzer with extensive rules for security, performance, and quality. Zero dependencies, completely offline.
 * [ThalamusDB](https://github.com/itrummer/thalamusdb) ⭐ 119 | 🐛 0 | 🌐 Python | 📅 2025-08-27 - SQL with AI operators on text, images, and sound files.
 * [MissionKontrol](https://github.com/Mission-Kontrol/MissionKontrol) ⭐ 66 | 🐛 6 | 🌐 JavaScript | 📅 2021-10-31 - Self-hosted admin panel to manage one or more MySQL/PostGRES databases.
-* [sql-splitter](https://github.com/HelgeSverre/sql-splitter) ⭐ 15 | 🐛 4 | 🌐 Rust | 📅 2026-09-05 - CLI for splitting, merging, converting, and analyzing SQL dump files across MySQL, PostgreSQL, SQLite, and MSSQL.
+* [sql-splitter](https://github.com/HelgeSverre/sql-splitter) ⭐ 16 | 🐛 5 | 🌐 Rust | 📅 2026-09-12 - CLI for splitting, merging, converting, and analyzing SQL dump files across MySQL, PostgreSQL, SQLite, and MSSQL.
 * [sqlaxe](https://github.com/djberube/sqlaxe) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-08-17 - CLI tool for searching, filtering, formatting, and splitting SQL files. Supports 40+ dialects of SQL.
 * [SQL Fiddle](http://sqlfiddle.com/) - Easly test and share database problems and their solutions. Supports multiple different backend DBMS's.
 * [SqlPad](http://rickbergfalk.github.io/sqlpad/) - A web app for running SQL queries and visualizing the results
@@ -68,4 +68,4 @@ List of tools and techniques for working with relational databases inspired by o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
