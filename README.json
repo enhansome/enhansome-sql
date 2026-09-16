@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-31T09:07:19Z",
-            "open_issues": 70,
+            "open_issues": 71,
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12089,
+            "stars": 12091,
             "topics": [
               "database",
               "postgres",
@@ -119,7 +119,7 @@
             "open_issues": 162,
             "owner": "dbcli",
             "repo": "mssql-cli",
-            "stars": 1416,
+            "stars": 1417,
             "topics": [
               "cli",
               "database",
@@ -174,11 +174,11 @@
             "id": 25126616,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-09T19:51:00Z",
+            "last_commit": "2026-09-16T16:10:44Z",
             "open_issues": 42,
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13387,
+            "stars": 13388,
             "topics": [
               "database",
               "postgres",
@@ -201,11 +201,11 @@
             "id": 813564769,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T03:33:04Z",
-            "open_issues": 43,
+            "last_commit": "2026-09-16T17:10:10Z",
+            "open_issues": 39,
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5028,
+            "stars": 5029,
             "topics": [
               "ai-agent",
               "data-catalog",
@@ -247,7 +247,7 @@
             "open_issues": 302,
             "owner": "schemaspy",
             "repo": "schemaspy",
-            "stars": 3721,
+            "stars": 3722,
             "topics": [
               "data-dictionary",
               "database",
@@ -278,10 +278,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-15T14:47:40Z",
-            "open_issues": 130,
+            "open_issues": 131,
             "owner": "sqlpage",
             "repo": "SQLPage",
-            "stars": 2562,
+            "stars": 2563,
             "topics": [
               "database",
               "framework",
@@ -312,7 +312,7 @@
             "open_issues": 11,
             "owner": "eralchemy",
             "repo": "eralchemy",
-            "stars": 1433,
+            "stars": 1432,
             "topics": [
               "database",
               "documentation-tool",
@@ -342,7 +342,7 @@
             "open_issues": 416,
             "owner": "quarylabs",
             "repo": "sqruff",
-            "stars": 1388,
+            "stars": 1389,
             "topics": [
               "ansi",
               "bigquery",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:27:02.786Z",
+    "last_updated": "2026-09-16T17:26:26.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools and techniques for working with relational databases.",
