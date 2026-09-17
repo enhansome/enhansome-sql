@@ -2,7 +2,7 @@
 
 List of tools and techniques for working with relational databases inspired by other awesome lists.
 
-* [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,091 | 🐛 71 | 📅 2026-08-31 - There is alread a whole awesome list just for PostgreSQL.
+* [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,096 | 🐛 72 | 📅 2026-08-31 - There is alread a whole awesome list just for PostgreSQL.
 * [MySQL](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2,614 | 🐛 18 | 🌐 Python | 📅 2026-09-14 - There is already a whole awesome list just for MySQL.
 * [Oracle](#oracle) - Software and packages specifically for Oracle and PL/SQL.
 * [SQL Server](#sqlserver) - Software and packages specifically for SQL Server and T-SQL.
@@ -12,7 +12,7 @@ List of tools and techniques for working with relational databases inspired by o
 
 ### <a name="oracle"></a>Oracle
 
-* [Alexandria PL/SQL Utility Library](https://github.com/mortenbra/alexandria-plsql-utils) ⭐ 835 | 🐛 41 | 🌐 PLSQL | 📅 2023-03-10 - Collection of utility packages for PL/SQL
+* [Alexandria PL/SQL Utility Library](https://github.com/mortenbra/alexandria-plsql-utils) ⭐ 836 | 🐛 41 | 🌐 PLSQL | 📅 2023-03-10 - Collection of utility packages for PL/SQL
 * [PLSQL-JSON](https://github.com/doberkofler/PLSQL-JSON) ⭐ 48 | 🐛 1 | 🌐 PLSQL | 📅 2020-03-11 - PL/SQL library to encode/decode JSON
 * [SQL Developer](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html) - Oracle's Free IDE for PL/SQL development and administration of Oracle databases
 * [SQLcl](https://www.oracle.com/database/technologies/appdev/sqlcl.html) - Free command line interface for Oracle Database.
@@ -36,12 +36,12 @@ List of tools and techniques for working with relational databases inspired by o
 
 ## <a name="tools"></a>Tools
 
-* [PgCLI](https://github.com/dbcli/pgcli) ⭐ 13,388 | 🐛 42 | 🌐 Python | 📅 2026-09-16 - Postgres CLI with autocompletion and syntax highlighting
-* [WhoDB](https://github.com/clidey/whodb) ⭐ 5,029 | 🐛 39 | 🌐 Go | 📅 2026-09-16 - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
-* [SchemaSpy](https://github.com/schemaspy/schemaspy) ⭐ 3,722 | 🐛 302 | 🌐 HTML | 📅 2026-03-05 - we will do the best to simplify documentation process of your database
-* [SQLPage](https://github.com/lovasoa/SQLpage) ⭐ 2,563 | 🐛 131 | 🌐 Rust | 📅 2026-09-15 - Open-source SQL-only website builder
+* [PgCLI](https://github.com/dbcli/pgcli) ⭐ 13,390 | 🐛 45 | 🌐 Python | 📅 2026-09-16 - Postgres CLI with autocompletion and syntax highlighting
+* [WhoDB](https://github.com/clidey/whodb) ⭐ 5,031 | 🐛 25 | 🌐 Go | 📅 2026-09-17 - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
+* [SchemaSpy](https://github.com/schemaspy/schemaspy) ⭐ 3,722 | 🐛 303 | 🌐 HTML | 📅 2026-03-05 - we will do the best to simplify documentation process of your database
+* [SQLPage](https://github.com/lovasoa/SQLpage) ⭐ 2,565 | 🐛 142 | 🌐 Rust | 📅 2026-09-17 - Open-source SQL-only website builder
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) ⭐ 1,432 | 🐛 11 | 🌐 Python | 📅 2026-05-05 - ERAlchemy generates Entity Relation (ER) diagram from databases
-* [sqruff](https://github.com/quarylabs/sqruff) ⭐ 1,389 | 🐛 416 | 🌐 Rust | 📅 2026-09-15 - A SQL linter and formatter written in Rust that supports various SQL dialects and integrates with VSCode through a plugin.
+* [sqruff](https://github.com/quarylabs/sqruff) ⭐ 1,389 | 🐛 461 | 🌐 Rust | 📅 2026-09-17 - A SQL linter and formatter written in Rust that supports various SQL dialects and integrates with VSCode through a plugin.
 * [PixQL](https://github.com/Phildo/pixQL) ⭐ 383 | 🐛 3 | 🌐 C | 📅 2018-08-06 - Command-line image processing tool in SQL by @Phildo
 * [BigBash](https://github.com/zalando/bigbash) ⭐ 296 | 🐛 3 | 🌐 Java | 📅 2016-07-16 - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
 * [SlowQL](https://github.com/makroumi/slowql) ⭐ 227 | 🐛 2 | 🌐 Rust | 📅 2026-06-30 - SQL static analyzer with extensive rules for security, performance, and quality. Zero dependencies, completely offline.
@@ -68,4 +68,4 @@ List of tools and techniques for working with relational databases inspired by o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
