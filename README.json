@@ -19,7 +19,7 @@
             "open_issues": 73,
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12098,
+            "stars": 12100,
             "topics": [
               "database",
               "postgres",
@@ -119,7 +119,7 @@
             "open_issues": 162,
             "owner": "dbcli",
             "repo": "mssql-cli",
-            "stars": 1417,
+            "stars": 1418,
             "topics": [
               "cli",
               "database",
@@ -174,11 +174,11 @@
             "id": 25126616,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-16T16:10:44Z",
-            "open_issues": 45,
+            "last_commit": "2026-09-19T10:46:34Z",
+            "open_issues": 47,
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13394,
+            "stars": 13395,
             "topics": [
               "database",
               "postgres",
@@ -201,8 +201,8 @@
             "id": 813564769,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T16:43:24Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-19T03:31:13Z",
+            "open_issues": 32,
             "owner": "clidey",
             "repo": "whodb",
             "stars": 5032,
@@ -312,7 +312,7 @@
             "open_issues": 11,
             "owner": "eralchemy",
             "repo": "eralchemy",
-            "stars": 1432,
+            "stars": 1431,
             "topics": [
               "database",
               "documentation-tool",
@@ -338,8 +338,8 @@
             "id": 601303277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T20:53:21Z",
-            "open_issues": 472,
+            "last_commit": "2026-09-19T15:51:55Z",
+            "open_issues": 406,
             "owner": "quarylabs",
             "repo": "sqruff",
             "stars": 1389,
@@ -602,7 +602,7 @@
             "open_issues": 0,
             "owner": "mergisi",
             "repo": "sql-syntax-cheat-sheet",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T16:55:17.171Z",
+    "last_updated": "2026-09-19T16:12:12.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools and techniques for working with relational databases.",
