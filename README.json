@@ -178,7 +178,7 @@
             "open_issues": 49,
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13407,
+            "stars": 13410,
             "topics": [
               "database",
               "postgres",
@@ -201,8 +201,8 @@
             "id": 813564769,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T17:54:15Z",
-            "open_issues": 31,
+            "last_commit": "2026-09-30T14:19:24Z",
+            "open_issues": 33,
             "owner": "clidey",
             "repo": "whodb",
             "stars": 5033,
@@ -277,11 +277,11 @@
             "id": 519912039,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-29T15:06:39Z",
-            "open_issues": 142,
+            "last_commit": "2026-09-30T12:47:57Z",
+            "open_issues": 141,
             "owner": "sqlpage",
             "repo": "SQLPage",
-            "stars": 2567,
+            "stars": 2568,
             "topics": [
               "database",
               "framework",
@@ -338,8 +338,8 @@
             "id": 601303277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T16:53:00Z",
-            "open_issues": 430,
+            "last_commit": "2026-09-30T17:09:38Z",
+            "open_issues": 454,
             "owner": "quarylabs",
             "repo": "sqruff",
             "stars": 1399,
@@ -574,7 +574,7 @@
             "open_issues": 2,
             "owner": "ben-nour",
             "repo": "SQL-tips-and-tricks",
-            "stars": 2308,
+            "stars": 2309,
             "topics": [
               "mysql",
               "snowflake",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:26:11.596Z",
+    "last_updated": "2026-09-30T18:15:19.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools and techniques for working with relational databases.",
