@@ -19,7 +19,7 @@
             "open_issues": 84,
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12103,
+            "stars": 12104,
             "topics": [
               "database",
               "postgres",
@@ -44,7 +44,7 @@
             "open_issues": 20,
             "owner": "shlomi-noach",
             "repo": "awesome-mysql",
-            "stars": 2614,
+            "stars": 2615,
             "topics": []
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
@@ -178,7 +178,7 @@
             "open_issues": 49,
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13410,
+            "stars": 13411,
             "topics": [
               "database",
               "postgres",
@@ -201,11 +201,11 @@
             "id": 813564769,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T03:43:44Z",
+            "last_commit": "2026-10-03T09:46:58Z",
             "open_issues": 35,
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5031,
+            "stars": 5032,
             "topics": [
               "ai-agent",
               "data-catalog",
@@ -338,8 +338,8 @@
             "id": 601303277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T05:07:53Z",
-            "open_issues": 578,
+            "last_commit": "2026-10-03T16:48:41Z",
+            "open_issues": 621,
             "owner": "quarylabs",
             "repo": "sqruff",
             "stars": 1402,
@@ -574,7 +574,7 @@
             "open_issues": 2,
             "owner": "ben-nour",
             "repo": "SQL-tips-and-tricks",
-            "stars": 2311,
+            "stars": 2310,
             "topics": [
               "mysql",
               "snowflake",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:09:20.372Z",
+    "last_updated": "2026-10-03T16:56:33.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools and techniques for working with relational databases.",
