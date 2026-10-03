@@ -201,7 +201,7 @@
             "id": 813564769,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:56:32Z",
+            "last_commit": "2026-10-03T03:43:44Z",
             "open_issues": 35,
             "owner": "clidey",
             "repo": "whodb",
@@ -281,7 +281,7 @@
             "open_issues": 136,
             "owner": "sqlpage",
             "repo": "SQLPage",
-            "stars": 2570,
+            "stars": 2571,
             "topics": [
               "database",
               "framework",
@@ -338,11 +338,11 @@
             "id": 601303277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T07:45:10Z",
-            "open_issues": 536,
+            "last_commit": "2026-10-03T05:07:53Z",
+            "open_issues": 578,
             "owner": "quarylabs",
             "repo": "sqruff",
-            "stars": 1400,
+            "stars": 1402,
             "topics": [
               "ansi",
               "bigquery",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:11:09.860Z",
+    "last_updated": "2026-10-03T05:09:20.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools and techniques for working with relational databases.",
