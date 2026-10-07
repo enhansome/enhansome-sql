@@ -44,7 +44,7 @@
             "open_issues": 20,
             "owner": "shlomi-noach",
             "repo": "awesome-mysql",
-            "stars": 2615,
+            "stars": 2614,
             "topics": []
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
@@ -178,7 +178,7 @@
             "open_issues": 49,
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13411,
+            "stars": 13412,
             "topics": [
               "database",
               "postgres",
@@ -201,11 +201,11 @@
             "id": 813564769,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T18:01:00Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-07T18:46:33Z",
+            "open_issues": 24,
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5028,
+            "stars": 5029,
             "topics": [
               "ai-agent",
               "data-catalog",
@@ -277,8 +277,8 @@
             "id": 519912039,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-06T09:39:43Z",
-            "open_issues": 138,
+            "last_commit": "2026-10-07T19:05:42Z",
+            "open_issues": 140,
             "owner": "sqlpage",
             "repo": "SQLPage",
             "stars": 2572,
@@ -338,11 +338,11 @@
             "id": 601303277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T18:03:13Z",
-            "open_issues": 62,
+            "last_commit": "2026-10-07T15:14:19Z",
+            "open_issues": 56,
             "owner": "quarylabs",
             "repo": "sqruff",
-            "stars": 1404,
+            "stars": 1405,
             "topics": [
               "ansi",
               "bigquery",
@@ -461,7 +461,7 @@
             "open_issues": 0,
             "owner": "itrummer",
             "repo": "thalamusdb",
-            "stars": 119,
+            "stars": 120,
             "topics": [
               "approximate-processing",
               "llm",
@@ -574,7 +574,7 @@
             "open_issues": 2,
             "owner": "ben-nour",
             "repo": "SQL-tips-and-tricks",
-            "stars": 2309,
+            "stars": 2310,
             "topics": [
               "mysql",
               "snowflake",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T18:44:43.147Z",
+    "last_updated": "2026-10-07T19:10:59.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools and techniques for working with relational databases.",
