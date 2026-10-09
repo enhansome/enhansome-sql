@@ -19,7 +19,7 @@
             "open_issues": 90,
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12108,
+            "stars": 12107,
             "topics": [
               "database",
               "postgres",
@@ -178,7 +178,7 @@
             "open_issues": 49,
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13415,
+            "stars": 13414,
             "topics": [
               "database",
               "postgres",
@@ -201,11 +201,11 @@
             "id": 813564769,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T18:06:56Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-09T18:11:30Z",
+            "open_issues": 23,
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5031,
+            "stars": 5032,
             "topics": [
               "ai-agent",
               "data-catalog",
@@ -277,8 +277,8 @@
             "id": 519912039,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-08T14:38:15Z",
-            "open_issues": 138,
+            "last_commit": "2026-10-09T16:14:01Z",
+            "open_issues": 136,
             "owner": "sqlpage",
             "repo": "SQLPage",
             "stars": 2574,
@@ -574,7 +574,7 @@
             "open_issues": 2,
             "owner": "ben-nour",
             "repo": "SQL-tips-and-tricks",
-            "stars": 2310,
+            "stars": 2309,
             "topics": [
               "mysql",
               "snowflake",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:07:04.739Z",
+    "last_updated": "2026-10-09T18:37:49.806Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools and techniques for working with relational databases.",
@@ -624,7 +624,7 @@
       "open_issues": 30,
       "owner": "danhuss",
       "repo": "awesome-sql",
-      "stars": 453,
+      "stars": 454,
       "topics": [
         "awesome",
         "awesome-list",
