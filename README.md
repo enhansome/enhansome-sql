@@ -2,8 +2,8 @@
 
 List of tools and techniques for working with relational databases inspired by other awesome lists.
 
-* [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,107 | 🐛 92 | 📅 2026-08-31 - There is alread a whole awesome list just for PostgreSQL.
-* [MySQL](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2,613 | 🐛 22 | 🌐 Python | 📅 2026-10-08 - There is already a whole awesome list just for MySQL.
+* [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,110 | 🐛 95 | 📅 2026-08-31 - There is alread a whole awesome list just for PostgreSQL.
+* [MySQL](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2,614 | 🐛 24 | 🌐 Python | 📅 2026-10-08 - There is already a whole awesome list just for MySQL.
 * [Oracle](#oracle) - Software and packages specifically for Oracle and PL/SQL.
 * [SQL Server](#sqlserver) - Software and packages specifically for SQL Server and T-SQL.
 * Cross Platform Stuff
@@ -29,19 +29,19 @@ List of tools and techniques for working with relational databases inspired by o
 
 ## <a name="formatter"></a>Formatters
 
-* [Poor SQL](http://poorsql.com/) - Instant Free and Open-Source T-SQL Formatting (look here for the plugins and whatnot: <https://github.com/TaoK/PoorMansTSqlFormatter> ⭐ 1,021 | 🐛 158 | 🌐 JavaScript | 📅 2023-07-14 )
+* [Poor SQL](http://poorsql.com/) - Instant Free and Open-Source T-SQL Formatting (look here for the plugins and whatnot: <https://github.com/TaoK/PoorMansTSqlFormatter> ⭐ 1,022 | 🐛 158 | 🌐 JavaScript | 📅 2023-07-14 )
 * [SQL Format](http://www.dpriver.com/pp/sqlformat.htm) - Instant SQL Formatter
 * [ExtendsClass](https://extendsclass.com/sql-formatter.html) - Online SQL formatter
 * [CodeNeat SQL Formatter](https://codeneat.dev/sql-formatter) - Privacy-first online SQL formatter supporting 7 dialects.
 
 ## <a name="tools"></a>Tools
 
-* [PgCLI](https://github.com/dbcli/pgcli) ⭐ 13,414 | 🐛 49 | 🌐 Python | 📅 2026-09-20 - Postgres CLI with autocompletion and syntax highlighting
-* [WhoDB](https://github.com/clidey/whodb) ⭐ 5,033 | 🐛 27 | 🌐 Go | 📅 2026-10-10 - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
+* [PgCLI](https://github.com/dbcli/pgcli) ⭐ 13,415 | 🐛 49 | 🌐 Python | 📅 2026-09-20 - Postgres CLI with autocompletion and syntax highlighting
+* [WhoDB](https://github.com/clidey/whodb) ⭐ 5,036 | 🐛 28 | 🌐 Go | 📅 2026-10-11 - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 * [SchemaSpy](https://github.com/schemaspy/schemaspy) ⭐ 3,731 | 🐛 303 | 🌐 HTML | 📅 2026-03-05 - we will do the best to simplify documentation process of your database
-* [SQLPage](https://github.com/lovasoa/SQLpage) ⭐ 2,574 | 🐛 134 | 🌐 Rust | 📅 2026-10-09 - Open-source SQL-only website builder
+* [SQLPage](https://github.com/lovasoa/SQLpage) ⭐ 2,574 | 🐛 134 | 🌐 Rust | 📅 2026-10-11 - Open-source SQL-only website builder
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) ⭐ 1,430 | 🐛 11 | 🌐 Python | 📅 2026-05-05 - ERAlchemy generates Entity Relation (ER) diagram from databases
-* [sqruff](https://github.com/quarylabs/sqruff) ⭐ 1,408 | 🐛 58 | 🌐 Rust | 📅 2026-10-08 - A SQL linter and formatter written in Rust that supports various SQL dialects and integrates with VSCode through a plugin.
+* [sqruff](https://github.com/quarylabs/sqruff) ⭐ 1,408 | 🐛 57 | 🌐 Rust | 📅 2026-10-11 - A SQL linter and formatter written in Rust that supports various SQL dialects and integrates with VSCode through a plugin.
 * [PixQL](https://github.com/Phildo/pixQL) ⭐ 383 | 🐛 3 | 🌐 C | 📅 2018-08-06 - Command-line image processing tool in SQL by @Phildo
 * [BigBash](https://github.com/zalando/bigbash) ⭐ 296 | 🐛 3 | 🌐 Java | 📅 2016-07-16 - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
 * [SlowQL](https://github.com/makroumi/slowql) ⭐ 226 | 🐛 0 | 🌐 Rust | 📅 2026-06-30 - SQL static analyzer with extensive rules for security, performance, and quality. Zero dependencies, completely offline.
@@ -68,4 +68,4 @@ List of tools and techniques for working with relational databases inspired by o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

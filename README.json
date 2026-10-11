@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-31T09:07:19Z",
-            "open_issues": 92,
+            "open_issues": 95,
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12107,
+            "stars": 12110,
             "topics": [
               "database",
               "postgres",
@@ -41,10 +41,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-08T06:38:25Z",
-            "open_issues": 22,
+            "open_issues": 24,
             "owner": "shlomi-noach",
             "repo": "awesome-mysql",
-            "stars": 2613,
+            "stars": 2614,
             "topics": []
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
@@ -151,7 +151,7 @@
             "open_issues": 158,
             "owner": "TaoK",
             "repo": "PoorMansTSqlFormatter",
-            "stars": 1021,
+            "stars": 1022,
             "topics": []
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
@@ -178,7 +178,7 @@
             "open_issues": 49,
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13414,
+            "stars": 13415,
             "topics": [
               "database",
               "postgres",
@@ -201,11 +201,11 @@
             "id": 813564769,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T15:12:57Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-11T14:17:53Z",
+            "open_issues": 28,
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5033,
+            "stars": 5036,
             "topics": [
               "ai-agent",
               "data-catalog",
@@ -277,7 +277,7 @@
             "id": 519912039,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-09T22:46:36Z",
+            "last_commit": "2026-10-11T00:57:17Z",
             "open_issues": 134,
             "owner": "sqlpage",
             "repo": "SQLPage",
@@ -338,8 +338,8 @@
             "id": 601303277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T18:56:44Z",
-            "open_issues": 58,
+            "last_commit": "2026-10-11T14:42:30Z",
+            "open_issues": 57,
             "owner": "quarylabs",
             "repo": "sqruff",
             "stars": 1408,
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:36:44.446Z",
+    "last_updated": "2026-10-11T17:53:13.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools and techniques for working with relational databases.",
