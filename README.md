@@ -2,7 +2,7 @@
 
 List of tools and techniques for working with relational databases inspired by other awesome lists.
 
-* [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,120 | 🐛 106 | 📅 2026-08-31 - There is alread a whole awesome list just for PostgreSQL.
+* [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,122 | 🐛 106 | 📅 2026-08-31 - There is alread a whole awesome list just for PostgreSQL.
 * [MySQL](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2,616 | 🐛 26 | 🌐 Python | 📅 2026-10-19 - There is already a whole awesome list just for MySQL.
 * [Oracle](#oracle) - Software and packages specifically for Oracle and PL/SQL.
 * [SQL Server](#sqlserver) - Software and packages specifically for SQL Server and T-SQL.
@@ -22,7 +22,7 @@ List of tools and techniques for working with relational databases inspired by o
 
 ### <a name="sqlserver"></a>SQL Server
 
-* [MSSqlCLI](https://github.com/dbcli/mssql-cli) ⭐ 1,421 | 🐛 162 | 🌐 Python | 📅 2024-02-26 - A command-line client for SQL Server with auto-completion and syntax highlighting
+* [MSSqlCLI](https://github.com/dbcli/mssql-cli) ⭐ 1,422 | 🐛 162 | 🌐 Python | 📅 2024-02-26 - A command-line client for SQL Server with auto-completion and syntax highlighting
 * [SQL Server Express Edition](http://www.microsoft.com/en-us/server-cloud/products/sql-server-editions/sql-server-express.aspx) - Free SQL Server Database to develop and deploy applications
 * [SQL Server Data Tools](http://msdn.microsoft.com/en-us/data/tools.aspx) - Integrated environment for developers to design and build database and other business intelligence solutions for MS SQL Server stack.
 * [tSQLt](http://tsqlt.org/) - Unit testing framework for SQL Server
@@ -36,12 +36,12 @@ List of tools and techniques for working with relational databases inspired by o
 
 ## <a name="tools"></a>Tools
 
-* [PgCLI](https://github.com/dbcli/pgcli) ⭐ 13,421 | 🐛 51 | 🌐 Python | 📅 2026-10-15 - Postgres CLI with autocompletion and syntax highlighting
-* [WhoDB](https://github.com/clidey/whodb) ⭐ 5,036 | 🐛 15 | 🌐 Go | 📅 2026-10-20 - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
+* [PgCLI](https://github.com/dbcli/pgcli) ⭐ 13,422 | 🐛 53 | 🌐 Python | 📅 2026-10-15 - Postgres CLI with autocompletion and syntax highlighting
+* [WhoDB](https://github.com/clidey/whodb) ⭐ 5,038 | 🐛 17 | 🌐 Go | 📅 2026-10-21 - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 * [SchemaSpy](https://github.com/schemaspy/schemaspy) ⭐ 3,732 | 🐛 303 | 🌐 HTML | 📅 2026-03-05 - we will do the best to simplify documentation process of your database
-* [SQLPage](https://github.com/lovasoa/SQLpage) ⭐ 2,576 | 🐛 132 | 🌐 Rust | 📅 2026-10-17 - Open-source SQL-only website builder
+* [SQLPage](https://github.com/lovasoa/SQLpage) ⭐ 2,577 | 🐛 131 | 🌐 Rust | 📅 2026-10-17 - Open-source SQL-only website builder
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) ⭐ 1,432 | 🐛 13 | 🌐 Python | 📅 2026-05-05 - ERAlchemy generates Entity Relation (ER) diagram from databases
-* [sqruff](https://github.com/quarylabs/sqruff) ⭐ 1,412 | 🐛 54 | 🌐 Rust | 📅 2026-10-20 - A SQL linter and formatter written in Rust that supports various SQL dialects and integrates with VSCode through a plugin.
+* [sqruff](https://github.com/quarylabs/sqruff) ⭐ 1,411 | 🐛 60 | 🌐 Rust | 📅 2026-10-21 - A SQL linter and formatter written in Rust that supports various SQL dialects and integrates with VSCode through a plugin.
 * [PixQL](https://github.com/Phildo/pixQL) ⭐ 383 | 🐛 3 | 🌐 C | 📅 2018-08-06 - Command-line image processing tool in SQL by @Phildo
 * [BigBash](https://github.com/zalando/bigbash) ⭐ 295 | 🐛 3 | 🌐 Java | 📅 2016-07-16 - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
 * [SlowQL](https://github.com/makroumi/slowql) ⭐ 229 | 🐛 0 | 🌐 Rust | 📅 2026-06-30 - SQL static analyzer with extensive rules for security, performance, and quality. Zero dependencies, completely offline.
@@ -68,4 +68,4 @@ List of tools and techniques for working with relational databases inspired by o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
