@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-31T09:07:19Z",
-            "open_issues": 126,
+            "open_issues": 128,
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12126,
+            "stars": 12127,
             "topics": [
               "database",
               "postgres",
@@ -44,7 +44,7 @@
             "open_issues": 29,
             "owner": "shlomi-noach",
             "repo": "awesome-mysql",
-            "stars": 2615,
+            "stars": 2616,
             "topics": []
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
@@ -174,11 +174,11 @@
             "id": 25126616,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-24T21:11:37Z",
-            "open_issues": 52,
+            "last_commit": "2026-11-03T18:56:29Z",
+            "open_issues": 51,
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13429,
+            "stars": 13428,
             "topics": [
               "database",
               "postgres",
@@ -201,11 +201,11 @@
             "id": 813564769,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T18:08:33Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-03T18:23:28Z",
+            "open_issues": 17,
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5050,
+            "stars": 5049,
             "topics": [
               "ai-agent",
               "data-catalog",
@@ -339,10 +339,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-02T21:15:38Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "quarylabs",
             "repo": "sqruff",
-            "stars": 1417,
+            "stars": 1416,
             "topics": [
               "ansi",
               "bigquery",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:04:46.401Z",
+    "last_updated": "2026-11-03T19:56:02.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools and techniques for working with relational databases.",
