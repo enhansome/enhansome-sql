@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-05T17:24:35Z",
-            "open_issues": 128,
+            "open_issues": 131,
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12179,
+            "stars": 12184,
             "topics": [
               "database",
               "postgres",
@@ -41,7 +41,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-19T08:13:12Z",
-            "open_issues": 32,
+            "open_issues": 31,
             "owner": "shlomi-noach",
             "repo": "awesome-mysql",
             "stars": 2617,
@@ -71,7 +71,7 @@
             "open_issues": 41,
             "owner": "mortenbra",
             "repo": "alexandria-plsql-utils",
-            "stars": 835,
+            "stars": 836,
             "topics": []
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
@@ -178,7 +178,7 @@
             "open_issues": 56,
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13445,
+            "stars": 13446,
             "topics": [
               "database",
               "postgres",
@@ -201,8 +201,8 @@
             "id": 813564769,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T18:11:47Z",
-            "open_issues": 26,
+            "last_commit": "2026-11-12T20:29:11Z",
+            "open_issues": 32,
             "owner": "clidey",
             "repo": "whodb",
             "stars": 5054,
@@ -277,8 +277,8 @@
             "id": 519912039,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-10T11:36:30Z",
-            "open_issues": 105,
+            "last_commit": "2026-11-12T15:12:06Z",
+            "open_issues": 111,
             "owner": "sqlpage",
             "repo": "SQLPage",
             "stars": 2584,
@@ -339,10 +339,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-09T06:48:07Z",
-            "open_issues": 42,
+            "open_issues": 47,
             "owner": "quarylabs",
             "repo": "sqruff",
-            "stars": 1419,
+            "stars": 1421,
             "topics": [
               "ansi",
               "bigquery",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T19:58:50.360Z",
+    "last_updated": "2026-11-12T20:37:26.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools and techniques for working with relational databases.",
