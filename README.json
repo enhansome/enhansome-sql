@@ -19,7 +19,7 @@
             "open_issues": 135,
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12185,
+            "stars": 12186,
             "topics": [
               "database",
               "postgres",
@@ -201,7 +201,7 @@
             "id": 813564769,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T18:18:13Z",
+            "last_commit": "2026-11-14T03:22:43Z",
             "open_issues": 31,
             "owner": "clidey",
             "repo": "whodb",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:16:19.993Z",
+    "last_updated": "2026-11-14T18:37:53.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools and techniques for working with relational databases.",
