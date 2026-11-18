@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-05T17:24:35Z",
-            "open_issues": 139,
+            "open_issues": 138,
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12193,
+            "stars": 12192,
             "topics": [
               "database",
               "postgres",
@@ -178,7 +178,7 @@
             "open_issues": 56,
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13449,
+            "stars": 13452,
             "topics": [
               "database",
               "postgres",
@@ -201,11 +201,11 @@
             "id": 813564769,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T16:56:59Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-18T19:46:43Z",
+            "open_issues": 40,
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5059,
+            "stars": 5063,
             "topics": [
               "ai-agent",
               "data-catalog",
@@ -247,7 +247,7 @@
             "open_issues": 303,
             "owner": "schemaspy",
             "repo": "schemaspy",
-            "stars": 3741,
+            "stars": 3740,
             "topics": [
               "data-dictionary",
               "database",
@@ -277,8 +277,8 @@
             "id": 519912039,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-17T21:00:38Z",
-            "open_issues": 110,
+            "last_commit": "2026-11-17T23:50:53Z",
+            "open_issues": 109,
             "owner": "sqlpage",
             "repo": "SQLPage",
             "stars": 2585,
@@ -342,7 +342,7 @@
             "open_issues": 51,
             "owner": "quarylabs",
             "repo": "sqruff",
-            "stars": 1423,
+            "stars": 1424,
             "topics": [
               "ansi",
               "bigquery",
@@ -574,7 +574,7 @@
             "open_issues": 2,
             "owner": "ben-nour",
             "repo": "SQL-tips-and-tricks",
-            "stars": 2311,
+            "stars": 2310,
             "topics": [
               "mysql",
               "snowflake",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:29:06.868Z",
+    "last_updated": "2026-11-18T21:03:47.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools and techniques for working with relational databases.",
@@ -621,7 +621,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-04-25T14:15:25Z",
-      "open_issues": 46,
+      "open_issues": 47,
       "owner": "danhuss",
       "repo": "awesome-sql",
       "stars": 456,
