@@ -19,7 +19,7 @@
             "open_issues": 138,
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12192,
+            "stars": 12190,
             "topics": [
               "database",
               "postgres",
@@ -151,7 +151,7 @@
             "open_issues": 154,
             "owner": "TaoK",
             "repo": "PoorMansTSqlFormatter",
-            "stars": 1023,
+            "stars": 1022,
             "topics": []
           },
           "first_seen": "2026-08-28T22:51:32.277Z"
@@ -201,11 +201,11 @@
             "id": 813564769,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T19:46:43Z",
+            "last_commit": "2026-11-19T16:59:31Z",
             "open_issues": 40,
             "owner": "clidey",
             "repo": "whodb",
-            "stars": 5063,
+            "stars": 5064,
             "topics": [
               "ai-agent",
               "data-catalog",
@@ -247,7 +247,7 @@
             "open_issues": 303,
             "owner": "schemaspy",
             "repo": "schemaspy",
-            "stars": 3740,
+            "stars": 3739,
             "topics": [
               "data-dictionary",
               "database",
@@ -277,7 +277,7 @@
             "id": 519912039,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-17T23:50:53Z",
+            "last_commit": "2026-11-19T09:48:59Z",
             "open_issues": 109,
             "owner": "sqlpage",
             "repo": "SQLPage",
@@ -312,7 +312,7 @@
             "open_issues": 15,
             "owner": "eralchemy",
             "repo": "eralchemy",
-            "stars": 1434,
+            "stars": 1433,
             "topics": [
               "database",
               "documentation-tool",
@@ -339,10 +339,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-16T22:38:50Z",
-            "open_issues": 51,
+            "open_issues": 53,
             "owner": "quarylabs",
             "repo": "sqruff",
-            "stars": 1424,
+            "stars": 1425,
             "topics": [
               "ansi",
               "bigquery",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:03:47.476Z",
+    "last_updated": "2026-11-19T21:08:50.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools and techniques for working with relational databases.",
