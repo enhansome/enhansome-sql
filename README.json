@@ -178,7 +178,7 @@
             "open_issues": 58,
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13461,
+            "stars": 13462,
             "topics": [
               "database",
               "postgres",
@@ -201,8 +201,8 @@
             "id": 813564769,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T20:54:07Z",
-            "open_issues": 37,
+            "last_commit": "2026-11-26T18:45:57Z",
+            "open_issues": 18,
             "owner": "clidey",
             "repo": "whodb",
             "stars": 5070,
@@ -278,10 +278,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-25T17:34:22Z",
-            "open_issues": 109,
+            "open_issues": 110,
             "owner": "sqlpage",
             "repo": "SQLPage",
-            "stars": 2587,
+            "stars": 2588,
             "topics": [
               "database",
               "framework",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T22:06:22.314Z",
+    "last_updated": "2026-11-26T22:05:09.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of tools and techniques for working with relational databases.",
@@ -621,7 +621,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-04-25T14:15:25Z",
-      "open_issues": 46,
+      "open_issues": 47,
       "owner": "danhuss",
       "repo": "awesome-sql",
       "stars": 456,
